@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv week_0/lectures/src0/longlist.db week_0/lecture/)",
+      "Bash(mv week_0/lectures/src0/longlist.csv week_0/lecture/data/)",
+      "Bash(cp SELECT.sql ../../lecture/queries/01_select.sql)",
+      "Bash(cp LIMIT.sql ../../lecture/queries/02_limit.sql)",
+      "Bash(cp WHERE.sql ../../lecture/queries/03_where.sql)"
+    ]
+  }
+}
